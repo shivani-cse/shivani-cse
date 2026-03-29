@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https:linkedin.com/in/yshivani2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yshivani2)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/Y-Shivani_02)
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:shivaniyenugundla@gmail.com)
 # 💻 Tech Stack:

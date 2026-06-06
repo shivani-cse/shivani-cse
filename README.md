@@ -82,14 +82,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/apiYShivani=shivani-cse&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?YShivani=shivani-cse&theme=tokyonight&hide_border=false&layout=compact)
-
----
-
 ## 💡 Motto
 
 ✨ **"Consistency, Curiosity, and Continuous Learning."** ✨
